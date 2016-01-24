@@ -11,4 +11,4 @@ import {Component} from 'angular2/core';
 
 // The name of the file (without extension) is usually the name of the module.
 // Accordingly, 'app.component' is the name of our first module.
-export class AppComponent { }
+export class AppComponent {}
